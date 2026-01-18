@@ -85,6 +85,3 @@ This setup is commonly used for:
 
 ---
 
-## 🧑‍💻 Author
-**Moboluwaduro Oyetoro**  
-Cloud & Cybersecurity Enthusiast
